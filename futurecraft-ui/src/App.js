@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
-import Home from './views/Home'; // Import the Home component
+import GlobalStyles from './styles/globalStyles';
+import Home from './views/Home';
 
 function App() {
   return (
     <div className="App">
+      <GlobalStyles />
       <Home /> {/* Use the Home component */}
     </div>
   );
