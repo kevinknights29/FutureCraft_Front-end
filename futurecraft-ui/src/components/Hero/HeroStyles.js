@@ -1,5 +1,6 @@
 // HeroSectionStyles.js
 import styled from 'styled-components';
+import backgroundImage from '../../assets/images/bg_1.jpg'
 
 export const HeroContainer = styled.div`
   display: flex;
@@ -7,7 +8,7 @@ export const HeroContainer = styled.div`
   align-items: center;
   justify-content: center;
   padding: 50px 20px;
-  background-image: url('/path-to-your-background-image.jpg');
+  background-image: url(${backgroundImage});
   background-size: cover;
   background-position: center;
   color: var(--professional-grey);
