@@ -59,4 +59,3 @@ The MVP will focus on the core functionalities required to launch the platform, 
 - MDN Web Docs for HTML, CSS, JavaScript: [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 - Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
 - MongoDB Documentation: [https://docs.mongodb.com/](https://docs.mongodb.com/)
-
