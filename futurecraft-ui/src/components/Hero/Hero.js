@@ -5,8 +5,8 @@ import { HeroContainer, HeroHeading, HeroSubheading, CTAButton } from './HeroSty
 const Hero = () => {
   return (
     <HeroContainer>
-      <HeroHeading>Your Path to Personal Growth</HeroHeading>
-      <HeroSubheading>Explore courses that expand your horizons</HeroSubheading>
+      <HeroHeading>Unlock Your Potential</HeroHeading>
+      <HeroSubheading>With Tailored Growth for the Modern Professional.</HeroSubheading>
       <CTAButton className="btn-primary">Get Started</CTAButton>
     </HeroContainer>
   );
