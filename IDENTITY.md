@@ -6,6 +6,10 @@
 
 - **Usage**: The logo must be clearly visible on all platforms and maintain its integrity across different backgrounds and sizes.
 
+- **Font**: 'Montserrat', Semi-bold or Bold for high impact.
+- **Color**: Use #3498DB as the primary color for the logo to ensure it stands out and represents the brand's core identity of trust and intelligence.
+- **Design Variations**: For darker backgrounds, use #6EB5E5 for the logo to maintain visibility.
+
 ## Color Palette
 
 - **Primary Colors**
@@ -21,47 +25,55 @@
 
 - **Primary Typeface**: 'Roboto', sans-serif - Clean and modern, ensuring legibility across devices.
 - **Secondary Typeface**: 'Montserrat', sans-serif - For headings and emphasis.
-- **Usage**: Consistent use in all text elements to maintain a unified look. Headings and subheadings should be clearly differentiated from body text.
+- **Headings**:
+  - Font size: 22-25 pixels; Color: #1C6A9E for a strong presence and readability against light backgrounds.
+- **Subheadings**:
+  - Font size: 18-20 pixels; Color: #3498DB to distinguish from main headings and body text.
+- **Body Text**:
+  - Font size: 15-18 pixels; Line spacing: 150%; Color: #6EB5E5 for body text to ensure readability and comfort for the eyes.
+
+## Color Palette Application
+
+- **Primary Color**: #3498DB - Use for main call-to-action buttons, active menu items, and important icons.
+- **Secondary Color**: #6EB5E5 - Use for hover states, secondary buttons, and to highlight sections of the website.
+- **Accent Color**: #DB7734 - Use sparingly for urgent CTAs, warning messages, or to draw attention to special features.
+- **Complementary Color**: #45DB34 - Use for success messages, progress indicators, and to highlight ecological or growth aspects.
+- **Base Color**: #1C6A9E - Use for text headers, footers, and other areas where a strong contrast is needed.
 
 ## Imagery
 
-- **Style**: Professional and vibrant images that reflect the diverse, youthful demographic of Latin America.
-- **Usage**: All images should be high quality and culturally relevant, aligning with the brand message.
+- **Style**: Choose images that have blue tones that complement the color palette or have neutral backgrounds where the images can be overlayed with the color palette.
+- **Application**: Use images that represent growth, development, and the tech-forward nature of FutureCraft.
 
 ## Iconography
 
-- **Style**: Line icons with rounded edges that match the color palette.
-- **Usage**: Use icons to aid navigation and to represent concepts succinctly where text can be minimized.
+- **Style**: Clean line icons with a stroke weight that matches the Montserrat font weight for consistency.
+- **Color**: Icons should primarily use #3498DB, with #DB7734 and #45DB34 as accent colors for interactive icons.
 
-## Graphical Elements
+## Buttons and Interactive Elements
 
-- **Style**: Abstract shapes and patterns inspired by AI and digital networks.
-- **Usage**: Use sparingly to create interest and to break up sections without overwhelming the content.
-
-## Data Visualization
-
-- **Style**: Clean and simple charts with a touch of brand colors.
-- **Usage**: For representing statistics, growth, and progress within the platform and learning materials.
-
-## Button and CTA Design
-
-- **Style**: Rounded rectangles with bold text, using the primary and secondary colors.
-- **Usage**: Ensure buttons are prominent and easy to find, with a hover state to indicate interactivity.
+- **Primary Buttons**: Background of #3498DB with white text; Font size: 18 pixels; Rounded corners.
+- **Secondary Buttons**: Border and text in #6EB5E5 with a transparent background.
+- **Hover States**: Lighten the button color by 10-15% or invert colors for an interactive feel.
 
 ## Form Elements
 
-- **Style**: Clean lines with minimal styling, using brand colors for focus states.
-- **Usage**: Forms should be user-friendly, with clear labeling and validation messages.
-
-## Layout and Composition
-
-- **Grid System**: Use a responsive 12-column grid to structure layouts.
-- **Whitespace**: Use generously to create a clean, uncluttered look that improves readability.
+- **Input Fields**: Border of #6EB5E5; Font size: 15 pixels; Padding: 10 pixels for comfortable entry.
+- **Labels**: 'Montserrat', Regular; Font size: 15 pixels; Color: #1C6A9E for clarity.
 
 ## Accessibility
 
-- **Guidelines**: Follow WCAG 2.1 standards for accessibility.
-- **Usage**: Ensure text is readable and that the website is navigable for all users, including those with disabilities.
+- **Contrast**: Ensure there is high contrast between text and background colors, especially for body text.
+- **Focus Indicators**: Use #DB7734 to outline focused interactive elements for visibility.
+
+## Backgrounds and Layout
+
+- **Backgrounds**: Use lighter shades like #6EB5E5 for large areas to keep the design airy and open.
+- **Dividers and Borders**: Use #1C6A9E for defining spaces and separating content.
+
+## Data Visualization
+
+- **Graphs and Charts**: Utilize the color palette to differentiate data points, with #3498DB as the primary color for key data.
 
 ## Tone and Voice
 
